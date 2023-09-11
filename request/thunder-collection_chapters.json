@@ -1,0 +1,42 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "chapters",
+    "dateExported": "2023-05-08T03:58:12.981Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "b63455c5-bee5-4c14-ab07-8211bcbc0aaf",
+            "colId": "21d61fe4-dd51-4125-9a7a-62d7fbfde38d",
+            "containerId": "",
+            "name": "chapters",
+            "url": "http://localhost:7628/api/v1/chapters",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-05-08T03:57:04.472Z",
+            "modified": "2023-05-08T03:57:04.472Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "775b3031-e00f-4c3f-8970-9adc4e31eabc",
+            "colId": "21d61fe4-dd51-4125-9a7a-62d7fbfde38d",
+            "containerId": "",
+            "name": "chapter",
+            "url": "http://localhost:7628/api/v1/chapters/6",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-05-08T03:57:14.626Z",
+            "modified": "2023-05-08T03:57:14.626Z",
+            "headers": [
+                {
+                    "name": "x-access-token",
+                    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NTY4OTJlMDIxNTVjNjdkNmJhYWY1MCIsImlhdCI6MTY4MzUxNTIwMywiZXhwIjoxNjgzNjAxNjAzfQ.MXtf54wn7G9e1SfYVHLIKEtWu59iLWbX6TXbbkPltQU"
+                }
+            ],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
